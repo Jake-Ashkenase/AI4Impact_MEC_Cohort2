@@ -7,7 +7,7 @@ import {
   SpaceBetween,
   Spinner,
   StatusIndicator,
-} from "@cloudscape-design/components";
+} from "../../themed/components";
 import {
   Dispatch,
   SetStateAction,

@@ -962,8 +962,8 @@
     },
     "color-background-button-primary-default": {
       "$value": {
-        "light": "#006ce0",
-        "dark": "#42b4ff"
+        "light": "#FF4654",
+        "dark": "#D73A45"
       }
     },
     "color-background-button-primary-disabled": {
@@ -1058,8 +1058,8 @@
     },
     "color-background-layout-main": {
       "$value": {
-        "light": "white",
-        "dark": "blue"
+        "light": "#00FF00",
+        "dark": "#0A0A0A"
       }
     },
     "color-background-layout-toggle-active": {
@@ -1412,8 +1412,8 @@
     },
     "color-text-accent": {
       "$value": {
-        "light": "#0073bb",
-        "dark": "#0073bb"
+        "light": "#FF4654",
+        "dark": "#D73A45"
       }
     },
     "color-text-body-default": {
@@ -1747,7 +1747,7 @@
       }
     },
     "font-family-base": {
-      "$value": "'Open Sans', 'Helvetica Neue', Roboto, Arial, sans-serif"
+      "$value": "Arial"
     },
     "font-family-monospace": {
       "$value": "Monaco, Menlo, Consolas, 'Courier Prime', Courier, 'Courier New', monospace"
@@ -1822,7 +1822,7 @@
       "$value": "4px"
     },
     "border-radius-button": {
-      "$value": "20px"
+      "$value": "1px"
     },
     "border-radius-calendar-day-focus-ring": {
       "$value": "3px"
@@ -3036,8 +3036,8 @@
         },
         "color-background-button-primary-default": {
           "$value": {
-            "light": "#006ce0",
-            "dark": "#42b4ff"
+            "light": "#FF4654",
+            "dark": "#D73A45"
           }
         },
         "color-background-button-primary-disabled": {
@@ -3132,8 +3132,8 @@
         },
         "color-background-layout-main": {
           "$value": {
-            "light": "white",
-            "dark": "blue"
+            "light": "#00FF00",
+            "dark": "#0A0A0A"
           }
         },
         "color-background-layout-toggle-active": {
@@ -3486,8 +3486,8 @@
         },
         "color-text-accent": {
           "$value": {
-            "light": "#0073bb",
-            "dark": "#0073bb"
+            "light": "#FF4654",
+            "dark": "#D73A45"
           }
         },
         "color-text-body-default": {
@@ -3821,7 +3821,7 @@
           }
         },
         "font-family-base": {
-          "$value": "'Open Sans', 'Helvetica Neue', Roboto, Arial, sans-serif"
+          "$value": "Arial"
         },
         "font-family-monospace": {
           "$value": "Monaco, Menlo, Consolas, 'Courier Prime', Courier, 'Courier New', monospace"
@@ -3896,7 +3896,7 @@
           "$value": "4px"
         },
         "border-radius-button": {
-          "$value": "20px"
+          "$value": "1px"
         },
         "border-radius-calendar-day-focus-ring": {
           "$value": "3px"
@@ -5560,8 +5560,8 @@
         },
         "color-text-accent": {
           "$value": {
-            "light": "#44b9d6",
-            "dark": "#44b9d6"
+            "light": "#00AA00",
+            "dark": "#00AA00"
           }
         },
         "color-text-body-default": {
@@ -5895,7 +5895,7 @@
           }
         },
         "font-family-base": {
-          "$value": "'Open Sans', 'Helvetica Neue', Roboto, Arial, sans-serif"
+          "$value": "Arial"
         },
         "font-family-monospace": {
           "$value": "Monaco, Menlo, Consolas, 'Courier Prime', Courier, 'Courier New', monospace"
@@ -5970,7 +5970,7 @@
           "$value": "4px"
         },
         "border-radius-button": {
-          "$value": "20px"
+          "$value": "1px"
         },
         "border-radius-calendar-day-focus-ring": {
           "$value": "3px"
@@ -7969,7 +7969,7 @@
           }
         },
         "font-family-base": {
-          "$value": "'Open Sans', 'Helvetica Neue', Roboto, Arial, sans-serif"
+          "$value": "Arial"
         },
         "font-family-monospace": {
           "$value": "Monaco, Menlo, Consolas, 'Courier Prime', Courier, 'Courier New', monospace"
@@ -8044,7 +8044,7 @@
           "$value": "4px"
         },
         "border-radius-button": {
-          "$value": "20px"
+          "$value": "1px"
         },
         "border-radius-calendar-day-focus-ring": {
           "$value": "3px"
@@ -10043,7 +10043,7 @@
           }
         },
         "font-family-base": {
-          "$value": "'Open Sans', 'Helvetica Neue', Roboto, Arial, sans-serif"
+          "$value": "Arial"
         },
         "font-family-monospace": {
           "$value": "Monaco, Menlo, Consolas, 'Courier Prime', Courier, 'Courier New', monospace"
@@ -10118,7 +10118,7 @@
           "$value": "4px"
         },
         "border-radius-button": {
-          "$value": "20px"
+          "$value": "1px"
         },
         "border-radius-calendar-day-focus-ring": {
           "$value": "3px"
@@ -12117,7 +12117,7 @@
           }
         },
         "font-family-base": {
-          "$value": "'Open Sans', 'Helvetica Neue', Roboto, Arial, sans-serif"
+          "$value": "Arial"
         },
         "font-family-monospace": {
           "$value": "Monaco, Menlo, Consolas, 'Courier Prime', Courier, 'Courier New', monospace"
@@ -12192,7 +12192,7 @@
           "$value": "4px"
         },
         "border-radius-button": {
-          "$value": "20px"
+          "$value": "1px"
         },
         "border-radius-calendar-day-focus-ring": {
           "$value": "3px"
@@ -13502,8 +13502,8 @@
         },
         "color-background-layout-main": {
           "$value": {
-            "light": "#ffffff",
-            "dark": "#161d26"
+            "light": "black",
+            "dark": "black"
           }
         },
         "color-background-layout-toggle-active": {
@@ -14191,7 +14191,7 @@
           }
         },
         "font-family-base": {
-          "$value": "'Open Sans', 'Helvetica Neue', Roboto, Arial, sans-serif"
+          "$value": "Arial"
         },
         "font-family-monospace": {
           "$value": "Monaco, Menlo, Consolas, 'Courier Prime', Courier, 'Courier New', monospace"
@@ -14266,7 +14266,7 @@
           "$value": "4px"
         },
         "border-radius-button": {
-          "$value": "20px"
+          "$value": "1px"
         },
         "border-radius-calendar-day-focus-ring": {
           "$value": "3px"
@@ -16265,7 +16265,7 @@
           }
         },
         "font-family-base": {
-          "$value": "'Open Sans', 'Helvetica Neue', Roboto, Arial, sans-serif"
+          "$value": "Arial"
         },
         "font-family-monospace": {
           "$value": "Monaco, Menlo, Consolas, 'Courier Prime', Courier, 'Courier New', monospace"
@@ -16340,7 +16340,7 @@
           "$value": "4px"
         },
         "border-radius-button": {
-          "$value": "20px"
+          "$value": "1px"
         },
         "border-radius-calendar-day-focus-ring": {
           "$value": "3px"

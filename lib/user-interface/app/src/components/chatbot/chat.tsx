@@ -6,7 +6,7 @@ import {
   FeedbackData,
 } from "./types";
 import { Auth } from "aws-amplify";
-import { SpaceBetween, StatusIndicator, Alert, Flashbar } from "@cloudscape-design/components";
+import { SpaceBetween, StatusIndicator, Alert, Flashbar } from "../../themed/components";
 import { v4 as uuidv4 } from "uuid";
 import { AppContext } from "../../common/app-context";
 import { ApiClient } from "../../common/api-client/api-client";
